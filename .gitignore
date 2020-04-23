@@ -1,0 +1,4 @@
+.serverless/
+bin/
+.idea/
+.vscode/
