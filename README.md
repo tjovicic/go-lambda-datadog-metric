@@ -1,5 +1,10 @@
 # Datadog AWS Lambda
 
+## Quick start
+`make deploy`
+
+## Cleanup
+`make remove`
 
 ## Read more
 https://docs.datadoghq.com/metrics/
